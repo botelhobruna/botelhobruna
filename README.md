@@ -1,6 +1,6 @@
 ### Hi there! Bruna Botelho aqui ✨
 
-- 🎓 Cursando **Engenharia de Software**, no 3º período
+- 🎓 Cursando **Engenharia de Software**, no 4º período
 - 🐍 Desenvolvendo projetos em **Python**
 - 🤖 Atualmente focada em automação com **Selenium WebDriver**
 
